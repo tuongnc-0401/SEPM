@@ -2,21 +2,7 @@
 require "header.php" 
 ?>
     
-    <section class="home-slider-loop-false  inner-page owl-carousel">
-      <div class="slider-item" style="background-image: url('img/slider-1.jpg');">
-        
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-center">
-            <div class="col-md-8 text-center col-sm-12 element-animate">
-              <h1>Sign up </h1>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </section>
-    <!-- END slider -->
+    
     
     <section class="section">
       <div class="container">
